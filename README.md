@@ -20,7 +20,7 @@ This modular architecture allowed chaining these conversions to interpret regula
 ---
 
 ### 🔤 Lexer, Parser, and Evaluator for SmallC
-**🔗 Repo:** [cmsc330-smallc-parser]()  
+**🔗 Repo:** [cmsc330-smallc-parser](https://github.com/natejamesgithub/cmsc330-smallc-parser)  
 **📝 Language:** OCaml
 
 Implemented a lexer and parser for a simplified C-like language (SmallC). The lexer tokenizes input strings into SmallC tokens, while the parser converts them into an abstract syntax tree (AST).  
