@@ -6,7 +6,7 @@ A curated list of course projects from my time at the University of Maryland, Co
 ## CMSC 330: Organization of Programming Languages
 
 ### ⚙️ Regular Expression Engine
-**🔗 Repo:** [cmsc330-regex-engine](natejamesgithub/cmsc330-regex-engine)  
+**🔗 Repo:** [cmsc330-regex-engine](https://github.com/natejamesgithub/cmsc330-regex-engine)  
 **📝 Language:** OCaml
 
 Built a full regex engine in OCaml, implementing:
