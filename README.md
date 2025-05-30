@@ -32,6 +32,10 @@ This project solidified my skills in syntax processing and recursive-descent par
 ---
 
 ## 🔧 Optimizer and Type Checker for SmallC
+
+🚧 **Work in Progress**  
+This section is still under development. Stay tuned!
+
 **🔗 Repo:** [cmsc330-smallc-typecheck-opt]()  
 **📝 Language:** OCaml
 
