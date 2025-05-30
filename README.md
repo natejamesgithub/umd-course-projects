@@ -49,6 +49,10 @@ This project demonstrated how high-level language semantics are enforced and how
 ---
 
 ## 🗑️ Garbage Collector Implementations
+
+🚧 **Work in Progress**  
+This section is still under development. Stay tuned!
+
 **🔗 Repo:** [cmsc330-garbage-collector]()  
 **📝 Language:** Rust
 
@@ -62,5 +66,8 @@ Each collector mimics real-world garbage collection strategies, highlighting the
 ---
 
 ## CMSC 335: Web Application Development with Javascript
+
+🚧 **Work in Progress**  
+This section is still under development. Stay tuned!
 
 
