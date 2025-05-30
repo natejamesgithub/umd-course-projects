@@ -1,6 +1,6 @@
 # 🎓 University of Maryland, College Park Course Projects Portfolio
 A curated list of course projects from my time at the University of Maryland, College Park, covering Computer Science coursework.
-- Employers: Let me add you as a collaborator so you can view these repos!
+- Employers: Let me add you as a collaborator so you can view these repositories! Please message me with your github information.
 
 ---
 
