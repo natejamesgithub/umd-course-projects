@@ -5,8 +5,6 @@ A curated list of course projects from my time at the University of Maryland, Co
 
 ## CMSC 330: Organization of Programming Languages
 
----
-
 ### ⚙️ Regular Expression Engine
 **🔗 Repo:** [cmsc330-regex-engine]()  
 **📝 Language:** OCaml
@@ -57,10 +55,6 @@ Implemented three core memory management techniques:
 Each collector mimics real-world garbage collection strategies, highlighting their tradeoffs in time/space complexity and memory safety. Gave me a solid foundation in how high-level runtimes manage memory behind the scenes.
 
 ---
-
-
-
-
 
 ## CMSC 335: Web Application Development with Javascript
 
