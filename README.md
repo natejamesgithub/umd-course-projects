@@ -1,4 +1,4 @@
-# 🎓 University of Maryland Coursework Portfolio
+# University of Maryland Coursework Portfolio
 A curated list of course projects from my time at the University of Maryland, College Park, covering Computer Science coursework.
 - Employers: Let me add you as a collaborator so you can view these repositories! Please message me with your github information.
 
@@ -6,9 +6,9 @@ A curated list of course projects from my time at the University of Maryland, Co
 
 ## CMSC 330: Organization of Programming Languages
 
-### ⚙️ Regular Expression Engine
-**🔗 Repo:** [cmsc330-regex-engine](https://github.com/natejamesgithub/cmsc330-regex-engine)  
-**📝 Language:** OCaml
+### Regular Expression Engine
+** Repo:** [cmsc330-regex-engine](https://github.com/natejamesgithub/cmsc330-regex-engine)  
+** Language:** OCaml
 
 Built a full regex engine in OCaml, implementing:
 - Simulation of NFAs (`accept`)
@@ -19,9 +19,9 @@ This modular architecture allowed chaining these conversions to interpret regula
 
 ---
 
-### 🔤 Lexer, Parser, and Evaluator for SmallC
-**🔗 Repo:** [cmsc330-smallc-parser](https://github.com/natejamesgithub/cmsc330-smallc-parser)  
-**📝 Language:** OCaml
+### Lexer, Parser, and Evaluator for SmallC
+**Repo:** [cmsc330-smallc-parser](https://github.com/natejamesgithub/cmsc330-smallc-parser)  
+**Language:** OCaml
 
 Implemented a lexer and parser for a simplified C-like language (SmallC). The lexer tokenizes input strings into SmallC tokens, while the parser converts them into an abstract syntax tree (AST).  
 - Full grammar handling for expressions and statements
@@ -31,13 +31,13 @@ This project solidified my skills in syntax processing and recursive-descent par
 
 ---
 
-## 🔧 Optimizer and Type Checker for SmallC
+## Optimizer and Type Checker for SmallC
 
 🚧 **Work in Progress**  
 This section is still under development. Stay tuned!
 
-**🔗 Repo:** [cmsc330-smallc-typecheck-opt]()  
-**📝 Language:** OCaml
+**Repo:** [cmsc330-smallc-typecheck-opt]()  
+**Language:** OCaml
 
 Expanded the SmallC language pipeline by building:
 - An **optimizer** (constant folding, propagation, and loop unrolling)
@@ -48,13 +48,13 @@ This project demonstrated how high-level language semantics are enforced and how
 
 ---
 
-## 🗑️ Garbage Collector Implementations
+## Garbage Collector Implementations
 
 🚧 **Work in Progress**  
 This section is still under development. Stay tuned!
 
-**🔗 Repo:** [cmsc330-garbage-collector]()  
-**📝 Language:** Rust
+**Repo:** [cmsc330-garbage-collector]()  
+**Language:** Rust
 
 Implemented three core memory management techniques:
 - **Reference Counting**
